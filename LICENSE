@@ -220,6 +220,130 @@ any personal data, personal media (including photographs or gallery access),
 financial details, or private user files. Users are advised against submitting 
 unsolicited personal or sensitive information into the platform.
 
+--------------------------------------------------------------------------------
+22. POINT PLAY ECOSYSTEM & VOUCHER DEPOSIT TERMS (INBOUND PAYMENTS)
+--------------------------------------------------------------------------------
+RudraX Technologies Studio provides an in-app Point Play Ecosystem allowing 
+users to voluntarily load balance into their profile node (`/users/{uid}`) 
+using accepted digital payment vouchers, specifically Amazon Gift Card vouchers.
+
+  [A] VOLUNTARY TRANSACTION: All voucher submissions and balance top-ups are 
+      executed entirely at the sole discretion and voluntary choice of the user. 
+      RudraX Technologies Studio does not force, demand, or coerce any user to 
+      purchase vouchers or fund their digital balance.
+  
+  [B] MINIMUM TRANSACTION THRESHOLD: The gateway enforces a strict minimum 
+      deposit threshold of ₹100 per voucher submission. Submissions below 
+      this limit will be rejected automatically.
+  
+  [C] 1:1 CONVERSION RATIO: Validated vouchers are credited to the user's 
+      internal balance on a strict 1:1 ratio (e.g., a valid ₹3,000 voucher 
+      grants exactly 3,000 ecosystem points). Points carry no fiat value 
+      outside the platform.
+  
+  [D] ANTI-SPAM & SUBMISSION CONTROLS: To prevent automated flooding, fraud, 
+      or duplicate requests, the platform implements a 24-hour transmission 
+      window lock per user. All submissions pass through a restricted inbound 
+      queue (`/admin/amazonPayments`) for executive verification.
+
+--------------------------------------------------------------------------------
+23. NO REFUND, NO RETURN & ABSOLUTE NO CANCELLATION POLICY
+--------------------------------------------------------------------------------
+ALL DEPOSITS, VOUCHER SUBMISSIONS, AND POINT REDEMPTIONS COMPLETED WITHIN THE 
+RUDRAX TECHNOLOGIES STUDIO ECOSYSTEM ARE FINAL, PERMANENT, AND NON-REFUNDABLE.
+
+  [A] ZERO REFUNDS: Under no circumstances shall RudraX Technologies Studio 
+      issue cash refunds, bank transfers, payment reversals, or chargebacks 
+      for any submitted vouchers or purchased points.
+  
+  [B] WAIVER OF CLAIM: By submitting a voucher or making a payment, the user 
+      explicitly agrees, confirms, and guarantees that they relinquish all 
+      rights to initiate legal claims, payment disputes, or bank chargebacks 
+      claiming unauthorized charges or non-receipt of cash return.
+
+--------------------------------------------------------------------------------
+24. OUTBOUND REDEMPTIONS & FINTECH SDK TOKEN FORGING
+--------------------------------------------------------------------------------
+Users may consume their accrued point balance to unlock digital services, 
+subscriptions, or features across connected partner applications via the 
+RudraX Bank Point interface and SDK Bridge infrastructure.
+
+  [A] CRYPTOGRAPHIC TOKEN FORGING: Outbound requests debit the point balance 
+      and generate a one-time, cryptographically salted token string 
+      (e.g., 300V3YHC).
+  
+  [B] ATOMIC CONSUMPTION & ANTI-DOUBLE SPEND: External systems consuming the 
+      SDK bridge (`/sdkBridgeCodes/{token}`) atomically mark tokens as 
+      consumed (`consumedStatus: true`). Any attempt to reuse, duplicate, or 
+      spoof token strings is strictly prohibited and flagged as fraud.
+
+--------------------------------------------------------------------------------
+25. FRAUD MITIGATION, ROLLBACK PROTOCOL & PENALTIES
+--------------------------------------------------------------------------------
+RudraX Technologies Studio enforces strict automated and executive anti-fraud 
+monitoring over all point distributions and token generations.
+
+  [A] FRAUDULENT VOUCHER REVERSAL: If a submitted voucher is invalidated, 
+      reclaimed, chargebacked, or determined to be fraudulent post-approval, 
+      RudraX Technologies Studio reserves the absolute right to execute an 
+      immediate point rollback, deducting the equivalent amount from the account.
+  
+  [B] NEGATIVE BALANCE FLAGS: Point rollbacks may result in negative wallet 
+      balances. Accounts with negative balances will be permanently locked 
+      and flagged as security violations until reviewed.
+  
+  [C] LEGAL PROSECUTION FOR FRAUD: Users attempting to submit stolen, used, 
+      or fake vouchers will suffer immediate permanent termination and will 
+      be reported to law enforcement authorities.
+
+--------------------------------------------------------------------------------
+26. USER CONDUCT & ABSOLUTE EXCLUSION OF LIABILITY FOR MISUSE
+--------------------------------------------------------------------------------
+The services, points, and SDK bridge systems provided by RudraX Technologies 
+Studio are designed solely for lawful, constructive, and authorized usage.
+
+  [A] 100% USER RESPONSIBILITY: RudraX Technologies Studio, its founder (Rudra 
+      Parmar), and system maintainers accept ZERO liability for any illegal, 
+      unauthorized, harmful, or fraudulent activities carried out by users. 
+      Full legal and financial responsibility rests 100% on the individual user.
+  
+  [B] PLATFORM NEUTRALITY: The platform functions strictly as a technological 
+      service provider. RudraX Technologies Studio does not monitor private user 
+      intents and disclaims all liability resulting from third-party disputes.
+
+--------------------------------------------------------------------------------
+27. SERVICE AVAILABILITY, SUPPORT LIMITS & NO 24/7 GUARANTEE
+--------------------------------------------------------------------------------
+  [A] NO GUARANTEED 24/7 MANUAL SUPPORT: RudraX Technologies Studio operates 
+      automated background systems. The company DOES NOT guarantee 24/7 
+      real-time manual support or instant chat responses.
+  
+  [B] MANUAL REVIEW SCHEDULE: Inquiries, communications, or voucher verifications 
+      are conducted manually by the administration team based on availability. 
+      Delays in response times or verification queues do not constitute a breach 
+      of service or grounds for financial claims.
+
+--------------------------------------------------------------------------------
+28. PROPRIETARY SYSTEM & NO OPEN-SOURCE LICENSING
+--------------------------------------------------------------------------------
+No part of this software, backend architecture, point engine, or SDK bridge 
+is licensed under open-source agreements (such as MIT, GPL, or Apache). Accessing 
+services or integrating via SDK bridge nodes does NOT grant any right to access, 
+inspect, re-host, or redistribute underlying source code.
+
+--------------------------------------------------------------------------------
+29. THIRD-PARTY CLOUD INFRASTRUCTURE & AUTOMATED DATA PURGE
+--------------------------------------------------------------------------------
+  [A] FIREBASE / GOOGLE CLOUD DEPENDENCY: System authentication, database 
+      nodes (`/users/{uid}`), and backend pipelines rely on third-party cloud 
+      providers (Firebase / Google Cloud). RudraX Technologies Studio is not 
+      liable for service interruptions, server outages, or network failure 
+      caused by third-party infrastructure providers.
+  
+  [B] AUTOMATED MEMORY PURGE: To preserve performance and data privacy, historical 
+      ledger entries, communication dispatches, and temporary logs older than 
+      24 hours are automatically purged from operational memory pools.
+
 ================================================================================
 AUTHENTICATION NODE:
 Authenticated by: Rudra Parmar
