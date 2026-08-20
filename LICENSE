@@ -29,14 +29,14 @@ ORGANIZATION, OR ENTITY PERMITTED TO:
 
   [A] COPY, REPLICATE, OR DUPLICATE: You may not copy, clone, reproduce, or 
       re-architect any part of this codebase, system design, or binary files.
-  
+
   [B] MODIFY OR DERIVE: You may not edit, modify, alter, translate, adapt, or 
       create derivative works based upon this software or any part thereof.
-  
+
   [C] DISTRIBUTE OR SELL: You may not sub-license, rent, lease, sell, publish, 
       broadcast, distribute, or commercially exploit this software or its API 
       endpoints to any third party.
-  
+
   [D] REVERSE ENGINEER: You may not decompile, disassemble, reverse engineer, 
       or attempt to extract or reconstruct the source code or underlying logic 
       from any compiled binaries or hosted services.
@@ -231,16 +231,16 @@ using accepted digital payment vouchers, specifically Amazon Gift Card vouchers.
       executed entirely at the sole discretion and voluntary choice of the user. 
       RudraX Technologies Studio does not force, demand, or coerce any user to 
       purchase vouchers or fund their digital balance.
-  
+
   [B] MINIMUM TRANSACTION THRESHOLD: The gateway enforces a strict minimum 
       deposit threshold of ₹100 per voucher submission. Submissions below 
       this limit will be rejected automatically.
-  
+
   [C] 1:1 CONVERSION RATIO: Validated vouchers are credited to the user's 
       internal balance on a strict 1:1 ratio (e.g., a valid ₹3,000 voucher 
       grants exactly 3,000 ecosystem points). Points carry no fiat value 
       outside the platform.
-  
+
   [D] ANTI-SPAM & SUBMISSION CONTROLS: To prevent automated flooding, fraud, 
       or duplicate requests, the platform implements a 24-hour transmission 
       window lock per user. All submissions pass through a restricted inbound 
@@ -255,7 +255,7 @@ RUDRAX TECHNOLOGIES STUDIO ECOSYSTEM ARE FINAL, PERMANENT, AND NON-REFUNDABLE.
   [A] ZERO REFUNDS: Under no circumstances shall RudraX Technologies Studio 
       issue cash refunds, bank transfers, payment reversals, or chargebacks 
       for any submitted vouchers or purchased points.
-  
+
   [B] WAIVER OF CLAIM: By submitting a voucher or making a payment, the user 
       explicitly agrees, confirms, and guarantees that they relinquish all 
       rights to initiate legal claims, payment disputes, or bank chargebacks 
@@ -271,7 +271,7 @@ RudraX Bank Point interface and SDK Bridge infrastructure.
   [A] CRYPTOGRAPHIC TOKEN FORGING: Outbound requests debit the point balance 
       and generate a one-time, cryptographically salted token string 
       (e.g., 300V3YHC).
-  
+
   [B] ATOMIC CONSUMPTION & ANTI-DOUBLE SPEND: External systems consuming the 
       SDK bridge (`/sdkBridgeCodes/{token}`) atomically mark tokens as 
       consumed (`consumedStatus: true`). Any attempt to reuse, duplicate, or 
@@ -287,11 +287,11 @@ monitoring over all point distributions and token generations.
       reclaimed, chargebacked, or determined to be fraudulent post-approval, 
       RudraX Technologies Studio reserves the absolute right to execute an 
       immediate point rollback, deducting the equivalent amount from the account.
-  
+
   [B] NEGATIVE BALANCE FLAGS: Point rollbacks may result in negative wallet 
       balances. Accounts with negative balances will be permanently locked 
       and flagged as security violations until reviewed.
-  
+
   [C] LEGAL PROSECUTION FOR FRAUD: Users attempting to submit stolen, used, 
       or fake vouchers will suffer immediate permanent termination and will 
       be reported to law enforcement authorities.
@@ -306,7 +306,7 @@ Studio are designed solely for lawful, constructive, and authorized usage.
       Parmar), and system maintainers accept ZERO liability for any illegal, 
       unauthorized, harmful, or fraudulent activities carried out by users. 
       Full legal and financial responsibility rests 100% on the individual user.
-  
+
   [B] PLATFORM NEUTRALITY: The platform functions strictly as a technological 
       service provider. RudraX Technologies Studio does not monitor private user 
       intents and disclaims all liability resulting from third-party disputes.
@@ -317,7 +317,7 @@ Studio are designed solely for lawful, constructive, and authorized usage.
   [A] NO GUARANTEED 24/7 MANUAL SUPPORT: RudraX Technologies Studio operates 
       automated background systems. The company DOES NOT guarantee 24/7 
       real-time manual support or instant chat responses.
-  
+
   [B] MANUAL REVIEW SCHEDULE: Inquiries, communications, or voucher verifications 
       are conducted manually by the administration team based on availability. 
       Delays in response times or verification queues do not constitute a breach 
@@ -339,10 +339,115 @@ inspect, re-host, or redistribute underlying source code.
       providers (Firebase / Google Cloud). RudraX Technologies Studio is not 
       liable for service interruptions, server outages, or network failure 
       caused by third-party infrastructure providers.
-  
+
   [B] AUTOMATED MEMORY PURGE: To preserve performance and data privacy, historical 
       ledger entries, communication dispatches, and temporary logs older than 
       24 hours are automatically purged from operational memory pools.
+
+--------------------------------------------------------------------------------
+30. CLASS ACTION WAIVER & INDIVIDUAL DISPUTES
+--------------------------------------------------------------------------------
+ALL CLAIMS AND DISPUTES ARISING UNDER THIS AGREEMENT MUST BE LITIGATED OR 
+ARBITRATED ON AN INDIVIDUAL BASIS AND NOT ON A CLASS, COLLECTIVE, OR REPRESENTATIVE 
+BASIS. YOU EXPRESSLY WAIVE ANY RIGHT TO BRING, JOIN, OR PARTICIPATE AS A PLAINTIFF 
+OR CLASS MEMBER IN ANY CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION AGAINST 
+RUDRAX TECHNOLOGIES STUDIO OR RUDRA PARMAR.
+
+--------------------------------------------------------------------------------
+31. STRICT TIME LIMITATION TO FILE CLAIMS (2.5 MONTH / 75-DAY WINDOW)
+--------------------------------------------------------------------------------
+ANY CAUSE OF ACTION, DISPUTE, COMPLAINT, OR CLAIM ARISING OUT OF OR RELATING TO 
+THIS SOFTWARE, PLATFORM SERVICES, VOUCHER DEPOSITS, OR THIS LICENSE AGREEMENT 
+MUST BE OFFICIALLY COMMENCED AND BOUGHT IN WRITING WITHIN A STRICT PERIOD OF 
+SEVENTY-FIVE (75) DAYS (APPROXIMATELY 2.5 MONTHS) FROM THE DATE THE CAUSE OF 
+ACTION AROSE. IF A CLAIM IS NOT FILED WITHIN THIS 75-DAY WINDOW, SUCH CAUSE OF 
+ACTION IS PERMANENTLY BARRED, WAIVED, AND EXTINGUISHED BY LAW.
+
+--------------------------------------------------------------------------------
+32. COMPLIANCE, INSPECTION & AUDIT RIGHTS
+--------------------------------------------------------------------------------
+RudraX Technologies Studio reserves the absolute right to audit, monitor, and 
+inspect API request headers, system access patterns, and integration logs of 
+any user or entity connected to its services. If non-compliance, license breach, 
+or abusive system polling is identified, RudraX Technologies Studio may immediately 
+revoke access and initiate investigative procedures without prior notice.
+
+--------------------------------------------------------------------------------
+33. FORCE MAJEURE & UNFORESEEN EVENTS
+--------------------------------------------------------------------------------
+RudraX Technologies Studio, its founder, and affiliates shall not be held liable 
+or responsible for any failure, failure to perform, service outage, or loss of 
+data caused directly or indirectly by events beyond reasonable control, including 
+but not limited to acts of God, natural disasters, severe weather, internet 
+backbone disruptions, telecommunication failures, cyber terrorism, military 
+actions, riots, or unexpected government regulatory sanctions.
+
+--------------------------------------------------------------------------------
+34. SOFTWARE MODIFICATION, DEPRECATION & AUTO-UPDATE RIGHTS
+--------------------------------------------------------------------------------
+RudraX Technologies Studio reserves the unrestricted right to modify, alter, 
+update, patch, suspend, or discontinue any feature, endpoint, interface, or 
+SDK bridge component at any time without prior announcement. Users acknowledge 
+that software updates may alter functionality, and RudraX Technologies Studio 
+is under no obligation to support legacy versions or unmaintained builds.
+
+--------------------------------------------------------------------------------
+35. PENETRATION TESTING & SECURITY RESEARCH BOUNDARIES
+--------------------------------------------------------------------------------
+ANY ATTEMPT TO EXECUTE UNAUTHORIZED VULNERABILITY ASSESSMENTS, PENETRATION 
+TESTING (VAPT), PACKET SNIFFING, PAYLOAD INJECTION, OR SECURITY AUDITING WITHOUT 
+EXPRESS PRIOR WRITTEN CONSENT FROM RUDRA PARMAR IS STRICTLY PROHIBITED. VIOLATORS 
+WILL BE PROSECUTED UNDER APPLICABLE COMPUTER CRIME STATUTES AND IT ACTS.
+
+--------------------------------------------------------------------------------
+36. ANTI-MONEY LAUNDERING (AML) & LAW ENFORCEMENT COOPERATION
+--------------------------------------------------------------------------------
+RudraX Technologies Studio maintains zero tolerance for suspicious transactions, 
+financial laundering, or stolen payment instruments. If any voucher or transaction 
+node flags potential fraud, RudraX Technologies Studio reserves the absolute right 
+to lock affected user accounts, forfeit associated points, and disclose relevant 
+authentication metrics, IP logs, and system identifiers to regulatory bodies 
+and legal authorities.
+
+--------------------------------------------------------------------------------
+37. DORMANT ACCOUNT POLICY, POINT EXPIRY & INACTIVITY TIMER (180-DAY RULE)
+--------------------------------------------------------------------------------
+TO MAINTAIN SYSTEM INTEGRITY AND OPTIMIZE WALLET NODES (`/users/{uid}`), A STRICT 
+DORMANT ACCOUNT AND BALANCE EXPIRY POLICY IS ENFORCED:
+
+  [A] 180-DAY INACTIVITY EXPIRED BALANCE: If a user account records ZERO login 
+      activity, session re-authentication, or point transactions for a continuous 
+      period of 180 consecutive days, the account shall be classified as "Dormant." 
+      Upon reaching the 180th day of total inactivity, ALL accrued point balances 
+      and wallet units shall automatically expire, forfeit, and be permanently 
+      deducted (cleared to zero balance).
+
+  [B] INACTIVITY TIMER RESET: The 180-day inactivity countdown automatically 
+      resets back to zero whenever the user actively re-opens, logs into, or 
+      authenticates their account before the 180-day limit expires.
+
+  [C] PERMANENT LOSS UPON EXPIRY: Once points have expired due to 180 days of 
+      inactivity, re-opening or re-authenticating the account will NOT restore 
+      or recover the lost points. Unused balances that expire are permanently 
+      extinguished and non-recoverable.
+
+--------------------------------------------------------------------------------
+38. SERVICE LEVEL AGREEMENT (SLA) & DOWNTIME EXCLUSIONS
+--------------------------------------------------------------------------------
+RudraX Technologies Studio DOES NOT guarantee uninterrupted or 100% continuous 
+uptime. System maintenance, server upgrades, cloud provider outages, or network 
+latency may cause temporary service interruptions. Users agree that service 
+downtime shall not constitute a breach of contract or entitle any party to 
+financial compensation.
+
+--------------------------------------------------------------------------------
+39. RECOVERY OF LEGAL FEES & ATTORNEY'S CHARGES
+--------------------------------------------------------------------------------
+IF RUDRAX TECHNOLOGIES STUDIO OR RUDRA PARMAR INITIATES LEGAL ACTION, ARBITRATION, 
+OR COURT PROCEEDINGS TO ENFORCE THIS LICENSE AGREEMENT OR DEFEND AGAINST CLAIMS, 
+RUDRAX TECHNOLOGIES STUDIO SHALL BE ENTITLED TO RECOVER FROM THE NON-PREVAILING 
+PARTY ALL REASONABLE LEGAL EXPENSES, ADVOCATE FEES, COURT COSTS, AND ASSOCIATED 
+LITIGATION EXPENDITURES INCURRED.
 
 ================================================================================
 AUTHENTICATION NODE:
