@@ -1,457 +1,266 @@
 ================================================================================
-               RudraX Technologies Studio - PROPRIETARY LICENSE
+          RUDRAX TECHNOLOGIES STUDIO — ENTERPRISE PROPRIETARY LICENSE
+                     AND ECOSYSTEM GOVERNANCE AGREEMENT
+                             VERSION 4.0.0 (2026)
 ================================================================================
 
-COPYRIGHT (C) 2026 - PRESENT RUDRAX TECHNOLOGIES STUDIO. ALL RIGHTS RESERVED.
-FOUNDER & CEO: RUDRA PARMAR.
-
-IMPORTANT NOTICE: READ THIS LEGAL AGREEMENT CAREFULLY BEFORE ACCESSING, 
-VIEWING, OR USING ANY PORTION OF THIS SOFTWARE, FRAMEWORK, OR CODEBASE.
-
---------------------------------------------------------------------------------
-1. PROPRIETARY RIGHTS & OWNERSHIP
---------------------------------------------------------------------------------
-This software, including but not limited to its source code, object code, 
-architecture, system design, algorithm patterns, UI/UX components, documentation, 
-and underlying intellectual property, is the exclusive property of RudraX 
-Technologies Studio and its founder, Rudra Parmar. 
-
-This software is strictly PROPRIETARY and CONFIDENTIAL. Title, ownership, 
-and all intellectual property rights in and to the Software remain solely 
-with RudraX Technologies Studio.
-
---------------------------------------------------------------------------------
-2. RESTRICTIONS ON USE & STRICT PROHIBITIONS
---------------------------------------------------------------------------------
-Express permission is strictly LIMITED to end-user execution of the provided 
-services through authorized platforms. UNDER NO CIRCUMSTANCES IS ANY INDIVIDUAL, 
-ORGANIZATION, OR ENTITY PERMITTED TO:
-
-  [A] COPY, REPLICATE, OR DUPLICATE: You may not copy, clone, reproduce, or 
-      re-architect any part of this codebase, system design, or binary files.
-
-  [B] MODIFY OR DERIVE: You may not edit, modify, alter, translate, adapt, or 
-      create derivative works based upon this software or any part thereof.
-
-  [C] DISTRIBUTE OR SELL: You may not sub-license, rent, lease, sell, publish, 
-      broadcast, distribute, or commercially exploit this software or its API 
-      endpoints to any third party.
-
-  [D] REVERSE ENGINEER: You may not decompile, disassemble, reverse engineer, 
-      or attempt to extract or reconstruct the source code or underlying logic 
-      from any compiled binaries or hosted services.
-
---------------------------------------------------------------------------------
-3. AUTHORIZED SERVICE ACCESS ONLY
---------------------------------------------------------------------------------
-Users are granted a limited, revocable, non-exclusive, non-transferable license 
-SOLELY to consume the final services, user interfaces, or APIs provided directly 
-by RudraX Technologies Studio. Accessing the service DOES NOT grant any ownership 
-or right to inspect, copy, or redistribute the internal infrastructure or code.
-
---------------------------------------------------------------------------------
-4. ENFORCEMENT & LEGAL RECOURSE
---------------------------------------------------------------------------------
-Any unauthorized use, copying, distribution, or reverse-engineering of this 
-Software constitutes a direct violation of international copyright laws and 
-intellectual property statutes. 
-
-RudraX Technologies Studio reserves the absolute right to issue formal Digital 
-Millennium Copyright Act (DMCA) takedown requests, execute repository locks, 
-and pursue full legal action against infringing parties without prior notice.
-
---------------------------------------------------------------------------------
-5. PROHIBITION OF ARTIFICIAL INTELLIGENCE (AI) & MACHINE LEARNING SCRAPING
---------------------------------------------------------------------------------
-UNDER NO CIRCUMSTANCES MAY ANY PART OF THIS SOFTWARE, SOURCE CODE, ARCHITECTURE, 
-OR DOCUMENTATION BE USED, SCRAPED, PARSED, OR INDEXED BY ANY AUTOMATED SYSTEMS, 
-BOTS, CRAWLERS, OR HUMAN OPERATORS FOR THE PURPOSE OF TRAINING, FINE-TUNING, 
-EVALUATING, OR INSTRUCTING ANY ARTIFICIAL INTELLIGENCE (AI), MACHINE LEARNING (ML), 
-NEURAL NETWORK, OR LARGE LANGUAGE MODEL (LLM) ARCHITECTURES. ANY UNAUTHORIZED 
-USE IN AI TRAINING DATASETS IS A SEVERE DIRECT INFRINGEMENT OF INTELLECTUAL PROPERTY.
-
---------------------------------------------------------------------------------
-6. DISCLAIMER OF WARRANTY & LIMITATION OF LIABILITY
---------------------------------------------------------------------------------
-THIS SOFTWARE AND ALL ASSOCIATED SERVICES ARE PROVIDED ON AN "AS IS" AND "AS 
-AVAILABLE" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, 
-INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A 
-PARTICULAR PURPOSE, TITLE, ACCURACY, AND NON-INFRINGEMENT.
-
-IN NO EVENT SHALL RUDRAX TECHNOLOGIES STUDIO, ITS FOUNDER (RUDRA PARMAR), OFFICERS, 
-DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, 
-SPECIAL, CONSEQUENTIAL, PUNITIVE, OR EXEMPLARY DAMAGES (INCLUDING BUT NOT LIMITED 
-TO LOSS OF DATA, SYSTEM FAILURE, HARDWARE CRASH, BUSINESS INTERRUPTION, OR 
-FINANCIAL LOSS) ARISING OUT OF OR IN CONNECTION WITH THE USE OR INABILITY TO 
-USE THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
-
---------------------------------------------------------------------------------
-7. IMMEDIATE TERMINATION & REVOCATION
---------------------------------------------------------------------------------
-This agreement and the limited rights granted hereunder shall terminate 
-automatically and immediately, without notice from RudraX Technologies Studio, 
-if you fail to comply with any term(s) or provision(s) of this agreement. 
-Upon termination, you must immediately cease all access to the software and 
-destroy all full or partial copies, backups, or derivative records in your 
-possession or control.
-
---------------------------------------------------------------------------------
-8. GOVERNING LAW & LEGAL JURISDICTION
---------------------------------------------------------------------------------
-This Agreement shall be interpreted, construed, and enforced exclusively in 
-accordance with the laws of India. Any suit, legal action, arbitration, or 
-judicial proceeding arising out of or relating to this Agreement or the Software 
-shall be instituted exclusively in the competent courts situated in Khambhalia, 
-Gujarat, India. You hereby irrevocably submit to the personal jurisdiction and 
-venue of such courts.
-
---------------------------------------------------------------------------------
-9. SEVERABILITY & WAIVER
---------------------------------------------------------------------------------
-If any provision of this License is held by a court of competent jurisdiction 
-to be invalid, illegal, or unenforceable, such provision shall be enforced to 
-the maximum extent permissible, and the remaining provisions of this License 
-shall remain in full force and effect. The failure of RudraX Technologies Studio 
-to enforce any right or provision shall not constitute a waiver of future enforcement.
-
---------------------------------------------------------------------------------
-10. ENTIRE AGREEMENT & MODIFICATIONS
---------------------------------------------------------------------------------
-This License Agreement constitutes the entire legal agreement between you and 
-RudraX Technologies Studio regarding the Software. It supersedes all prior or 
-contemporaneous oral or written communications, proposals, and representations. 
-RudraX Technologies Studio reserves the right to modify or update this License 
-at any time without prior notice.
-
---------------------------------------------------------------------------------
-11. EXPORT CONTROL & LEGAL COMPLIANCE
---------------------------------------------------------------------------------
-You agree that the Software will not be accessed, downloaded, exported, or 
-re-exported, directly or indirectly, in violation of any applicable national 
-or international trade sanctions, embargoes, or export control laws.
-
---------------------------------------------------------------------------------
-12. RIGHT TO INJUNCTIVE RELIEF
---------------------------------------------------------------------------------
-You acknowledge that any breach of this License regarding intellectual property 
-or confidentiality may cause irreparable harm to RudraX Technologies Studio for 
-which monetary damages alone would be inadequate. Therefore, RudraX Technologies 
-Studio shall be entitled to seek immediate injunctive relief, restraining orders, 
-or court decrees without the necessity of posting a bond.
-
---------------------------------------------------------------------------------
-13. AGE ELIGIBILITY & PARENTAL CONSENT
---------------------------------------------------------------------------------
-By accessing or executing services provided by RudraX Technologies Studio, 
-end-users represent that they meet the minimum legal age of digital consent in 
-their jurisdiction. If a user is a minor, access is permitted strictly under the 
-direct supervision and authorization of a parent or legal guardian, who assumes 
-full liability for compliance with this License.
-
---------------------------------------------------------------------------------
-14. CONTINUITY OF RIGHTS
---------------------------------------------------------------------------------
-The failure or delay of RudraX Technologies Studio to exercise or enforce any right, 
-remedy, or legal action provided under this License shall not operate as a waiver 
-thereof, nor shall any single or partial exercise of any right preclude any other 
-or further exercise of rights against infringing entities.
-
---------------------------------------------------------------------------------
-15. ANTI-TAMPERING, BINARY PATCHING & DECOMPILATION DEFENSE
---------------------------------------------------------------------------------
-Users are strictly prohibited from attempting to alter, bypass, inject code into, 
-patch, or tamper with any binary files, security headers, licensing nodes, or 
-authentication mechanisms implemented by RudraX Technologies Studio. Any attempt 
-to manipulate binary integrity shall be treated as an illegal cyber breach under 
-applicable computer misuse acts.
-
---------------------------------------------------------------------------------
-16. API INFRASTRUCTURE & SERVICE INTEGRITY
---------------------------------------------------------------------------------
-System access through APIs or backend services is rate-limited and monitored. 
-Any attempt to execute Denial-of-Service (DoS/DDoS) attacks, automated scraping, 
-unauthorized endpoint polling, or payload injection against RudraX Technologies 
-Studio infrastructure will result in immediate IP banning, access revocation, 
-and legal prosecution.
-
---------------------------------------------------------------------------------
-17. TRADEMARK & BRAND IDENTITY PROTECTION
---------------------------------------------------------------------------------
-The names "RudraX Technologies Studio", "RudraX", associated logos, product titles, 
-and distinctive visual design elements are protected trademarks of RudraX 
-Technologies Studio and Rudra Parmar. No right or license is granted to use 
-any trademarks without express prior written consent.
-
---------------------------------------------------------------------------------
-18. DMCA, REPOSITORY LOCK & TAKEDOWN EXECUTIONS
---------------------------------------------------------------------------------
-RudraX Technologies Studio actively monitors public and private repositories, 
-app stores, and hosting platforms. In the event of unauthorized distribution, 
-RudraX Technologies Studio will immediately issue automated DMCA takedown requests, 
-file copyright strikes, and request hosting providers to permanently lock or 
-delete infringing repositories and accounts.
-
---------------------------------------------------------------------------------
-19. INDEMNIFICATION BY USER
---------------------------------------------------------------------------------
-You agree to defend, indemnify, and hold harmless RudraX Technologies Studio, 
-its founder (Rudra Parmar), and affiliates from and against any claims, 
-liabilities, damages, losses, and expenses (including legal fees) arising out 
-of or in any way connected with your access to, misuse of, or violation of 
-this License Agreement or third-party rights.
-
---------------------------------------------------------------------------------
-20. BINDING ARBITRATION & ALTERNATIVE DISPUTE RESOLUTION
---------------------------------------------------------------------------------
-Any dispute, controversy, or claim arising out of or relating to this contract 
-shall be settled by binding arbitration in accordance with the Arbitration 
-and Conciliation Act of India. The seat of arbitration shall be Khambhalia, 
-Gujarat, India, and the proceedings shall be conducted in English.
-
---------------------------------------------------------------------------------
-21. MINIMAL DATA COLLECTION & STRICT PRIVACY POLICY
---------------------------------------------------------------------------------
-RudraX Technologies Studio operates on a strict minimal data collection standard. 
-The platform requires ONLY an email address solely for user authentication, account 
-verification, and secure sign-in processes (standard industry process). 
-
-RudraX Technologies Studio DOES NOT collect, process, store, sell, or track 
-any personal data, personal media (including photographs or gallery access), 
-financial details, or private user files. Users are advised against submitting 
-unsolicited personal or sensitive information into the platform.
-
---------------------------------------------------------------------------------
-22. POINT PLAY ECOSYSTEM & VOUCHER DEPOSIT TERMS (INBOUND PAYMENTS)
---------------------------------------------------------------------------------
-RudraX Technologies Studio provides an in-app Point Play Ecosystem allowing 
-users to voluntarily load balance into their profile node (`/users/{uid}`) 
-using accepted digital payment vouchers, specifically Amazon Gift Card vouchers.
-
-  [A] VOLUNTARY TRANSACTION: All voucher submissions and balance top-ups are 
-      executed entirely at the sole discretion and voluntary choice of the user. 
-      RudraX Technologies Studio does not force, demand, or coerce any user to 
-      purchase vouchers or fund their digital balance.
-
-  [B] MINIMUM TRANSACTION THRESHOLD: The gateway enforces a strict minimum 
-      deposit threshold of ₹100 per voucher submission. Submissions below 
-      this limit will be rejected automatically.
-
-  [C] 1:1 CONVERSION RATIO: Validated vouchers are credited to the user's 
-      internal balance on a strict 1:1 ratio (e.g., a valid ₹3,000 voucher 
-      grants exactly 3,000 ecosystem points). Points carry no fiat value 
-      outside the platform.
-
-  [D] ANTI-SPAM & SUBMISSION CONTROLS: To prevent automated flooding, fraud, 
-      or duplicate requests, the platform implements a 24-hour transmission 
-      window lock per user. All submissions pass through a restricted inbound 
-      queue (`/admin/amazonPayments`) for executive verification.
-
---------------------------------------------------------------------------------
-23. NO REFUND, NO RETURN & ABSOLUTE NO CANCELLATION POLICY
---------------------------------------------------------------------------------
-ALL DEPOSITS, VOUCHER SUBMISSIONS, AND POINT REDEMPTIONS COMPLETED WITHIN THE 
-RUDRAX TECHNOLOGIES STUDIO ECOSYSTEM ARE FINAL, PERMANENT, AND NON-REFUNDABLE.
-
-  [A] ZERO REFUNDS: Under no circumstances shall RudraX Technologies Studio 
-      issue cash refunds, bank transfers, payment reversals, or chargebacks 
-      for any submitted vouchers or purchased points.
-
-  [B] WAIVER OF CLAIM: By submitting a voucher or making a payment, the user 
-      explicitly agrees, confirms, and guarantees that they relinquish all 
-      rights to initiate legal claims, payment disputes, or bank chargebacks 
-      claiming unauthorized charges or non-receipt of cash return.
-
---------------------------------------------------------------------------------
-24. OUTBOUND REDEMPTIONS & FINTECH SDK TOKEN FORGING
---------------------------------------------------------------------------------
-Users may consume their accrued point balance to unlock digital services, 
-subscriptions, or features across connected partner applications via the 
-RudraX Bank Point interface and SDK Bridge infrastructure.
-
-  [A] CRYPTOGRAPHIC TOKEN FORGING: Outbound requests debit the point balance 
-      and generate a one-time, cryptographically salted token string 
-      (e.g., 300V3YHC).
-
-  [B] ATOMIC CONSUMPTION & ANTI-DOUBLE SPEND: External systems consuming the 
-      SDK bridge (`/sdkBridgeCodes/{token}`) atomically mark tokens as 
-      consumed (`consumedStatus: true`). Any attempt to reuse, duplicate, or 
-      spoof token strings is strictly prohibited and flagged as fraud.
-
---------------------------------------------------------------------------------
-25. FRAUD MITIGATION, ROLLBACK PROTOCOL & PENALTIES
---------------------------------------------------------------------------------
-RudraX Technologies Studio enforces strict automated and executive anti-fraud 
-monitoring over all point distributions and token generations.
-
-  [A] FRAUDULENT VOUCHER REVERSAL: If a submitted voucher is invalidated, 
-      reclaimed, chargebacked, or determined to be fraudulent post-approval, 
-      RudraX Technologies Studio reserves the absolute right to execute an 
-      immediate point rollback, deducting the equivalent amount from the account.
-
-  [B] NEGATIVE BALANCE FLAGS: Point rollbacks may result in negative wallet 
-      balances. Accounts with negative balances will be permanently locked 
-      and flagged as security violations until reviewed.
-
-  [C] LEGAL PROSECUTION FOR FRAUD: Users attempting to submit stolen, used, 
-      or fake vouchers will suffer immediate permanent termination and will 
-      be reported to law enforcement authorities.
-
---------------------------------------------------------------------------------
-26. USER CONDUCT & ABSOLUTE EXCLUSION OF LIABILITY FOR MISUSE
---------------------------------------------------------------------------------
-The services, points, and SDK bridge systems provided by RudraX Technologies 
-Studio are designed solely for lawful, constructive, and authorized usage.
-
-  [A] 100% USER RESPONSIBILITY: RudraX Technologies Studio, its founder (Rudra 
-      Parmar), and system maintainers accept ZERO liability for any illegal, 
-      unauthorized, harmful, or fraudulent activities carried out by users. 
-      Full legal and financial responsibility rests 100% on the individual user.
-
-  [B] PLATFORM NEUTRALITY: The platform functions strictly as a technological 
-      service provider. RudraX Technologies Studio does not monitor private user 
-      intents and disclaims all liability resulting from third-party disputes.
-
---------------------------------------------------------------------------------
-27. SERVICE AVAILABILITY, SUPPORT LIMITS & NO 24/7 GUARANTEE
---------------------------------------------------------------------------------
-  [A] NO GUARANTEED 24/7 MANUAL SUPPORT: RudraX Technologies Studio operates 
-      automated background systems. The company DOES NOT guarantee 24/7 
-      real-time manual support or instant chat responses.
-
-  [B] MANUAL REVIEW SCHEDULE: Inquiries, communications, or voucher verifications 
-      are conducted manually by the administration team based on availability. 
-      Delays in response times or verification queues do not constitute a breach 
-      of service or grounds for financial claims.
-
---------------------------------------------------------------------------------
-28. PROPRIETARY SYSTEM & NO OPEN-SOURCE LICENSING
---------------------------------------------------------------------------------
-No part of this software, backend architecture, point engine, or SDK bridge 
-is licensed under open-source agreements (such as MIT, GPL, or Apache). Accessing 
-services or integrating via SDK bridge nodes does NOT grant any right to access, 
-inspect, re-host, or redistribute underlying source code.
-
---------------------------------------------------------------------------------
-29. THIRD-PARTY CLOUD INFRASTRUCTURE & AUTOMATED DATA PURGE
---------------------------------------------------------------------------------
-  [A] FIREBASE / GOOGLE CLOUD DEPENDENCY: System authentication, database 
-      nodes (`/users/{uid}`), and backend pipelines rely on third-party cloud 
-      providers (Firebase / Google Cloud). RudraX Technologies Studio is not 
-      liable for service interruptions, server outages, or network failure 
-      caused by third-party infrastructure providers.
-
-  [B] AUTOMATED MEMORY PURGE: To preserve performance and data privacy, historical 
-      ledger entries, communication dispatches, and temporary logs older than 
-      24 hours are automatically purged from operational memory pools.
-
---------------------------------------------------------------------------------
-30. CLASS ACTION WAIVER & INDIVIDUAL DISPUTES
---------------------------------------------------------------------------------
-ALL CLAIMS AND DISPUTES ARISING UNDER THIS AGREEMENT MUST BE LITIGATED OR 
-ARBITRATED ON AN INDIVIDUAL BASIS AND NOT ON A CLASS, COLLECTIVE, OR REPRESENTATIVE 
-BASIS. YOU EXPRESSLY WAIVE ANY RIGHT TO BRING, JOIN, OR PARTICIPATE AS A PLAINTIFF 
-OR CLASS MEMBER IN ANY CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION AGAINST 
-RUDRAX TECHNOLOGIES STUDIO OR RUDRA PARMAR.
-
---------------------------------------------------------------------------------
-31. STRICT TIME LIMITATION TO FILE CLAIMS (2.5 MONTH / 75-DAY WINDOW)
---------------------------------------------------------------------------------
-ANY CAUSE OF ACTION, DISPUTE, COMPLAINT, OR CLAIM ARISING OUT OF OR RELATING TO 
-THIS SOFTWARE, PLATFORM SERVICES, VOUCHER DEPOSITS, OR THIS LICENSE AGREEMENT 
-MUST BE OFFICIALLY COMMENCED AND BOUGHT IN WRITING WITHIN A STRICT PERIOD OF 
-SEVENTY-FIVE (75) DAYS (APPROXIMATELY 2.5 MONTHS) FROM THE DATE THE CAUSE OF 
-ACTION AROSE. IF A CLAIM IS NOT FILED WITHIN THIS 75-DAY WINDOW, SUCH CAUSE OF 
-ACTION IS PERMANENTLY BARRED, WAIVED, AND EXTINGUISHED BY LAW.
-
---------------------------------------------------------------------------------
-32. COMPLIANCE, INSPECTION & AUDIT RIGHTS
---------------------------------------------------------------------------------
-RudraX Technologies Studio reserves the absolute right to audit, monitor, and 
-inspect API request headers, system access patterns, and integration logs of 
-any user or entity connected to its services. If non-compliance, license breach, 
-or abusive system polling is identified, RudraX Technologies Studio may immediately 
-revoke access and initiate investigative procedures without prior notice.
-
---------------------------------------------------------------------------------
-33. FORCE MAJEURE & UNFORESEEN EVENTS
---------------------------------------------------------------------------------
-RudraX Technologies Studio, its founder, and affiliates shall not be held liable 
-or responsible for any failure, failure to perform, service outage, or loss of 
-data caused directly or indirectly by events beyond reasonable control, including 
-but not limited to acts of God, natural disasters, severe weather, internet 
-backbone disruptions, telecommunication failures, cyber terrorism, military 
-actions, riots, or unexpected government regulatory sanctions.
-
---------------------------------------------------------------------------------
-34. SOFTWARE MODIFICATION, DEPRECATION & AUTO-UPDATE RIGHTS
---------------------------------------------------------------------------------
-RudraX Technologies Studio reserves the unrestricted right to modify, alter, 
-update, patch, suspend, or discontinue any feature, endpoint, interface, or 
-SDK bridge component at any time without prior announcement. Users acknowledge 
-that software updates may alter functionality, and RudraX Technologies Studio 
-is under no obligation to support legacy versions or unmaintained builds.
-
---------------------------------------------------------------------------------
-35. PENETRATION TESTING & SECURITY RESEARCH BOUNDARIES
---------------------------------------------------------------------------------
-ANY ATTEMPT TO EXECUTE UNAUTHORIZED VULNERABILITY ASSESSMENTS, PENETRATION 
-TESTING (VAPT), PACKET SNIFFING, PAYLOAD INJECTION, OR SECURITY AUDITING WITHOUT 
-EXPRESS PRIOR WRITTEN CONSENT FROM RUDRA PARMAR IS STRICTLY PROHIBITED. VIOLATORS 
-WILL BE PROSECUTED UNDER APPLICABLE COMPUTER CRIME STATUTES AND IT ACTS.
-
---------------------------------------------------------------------------------
-36. ANTI-MONEY LAUNDERING (AML) & LAW ENFORCEMENT COOPERATION
---------------------------------------------------------------------------------
-RudraX Technologies Studio maintains zero tolerance for suspicious transactions, 
-financial laundering, or stolen payment instruments. If any voucher or transaction 
-node flags potential fraud, RudraX Technologies Studio reserves the absolute right 
-to lock affected user accounts, forfeit associated points, and disclose relevant 
-authentication metrics, IP logs, and system identifiers to regulatory bodies 
-and legal authorities.
-
---------------------------------------------------------------------------------
-37. DORMANT ACCOUNT POLICY, POINT EXPIRY & INACTIVITY TIMER (180-DAY RULE)
---------------------------------------------------------------------------------
-TO MAINTAIN SYSTEM INTEGRITY AND OPTIMIZE WALLET NODES (`/users/{uid}`), A STRICT 
-DORMANT ACCOUNT AND BALANCE EXPIRY POLICY IS ENFORCED:
-
-  [A] 180-DAY INACTIVITY EXPIRED BALANCE: If a user account records ZERO login 
-      activity, session re-authentication, or point transactions for a continuous 
-      period of 180 consecutive days, the account shall be classified as "Dormant." 
-      Upon reaching the 180th day of total inactivity, ALL accrued point balances 
-      and wallet units shall automatically expire, forfeit, and be permanently 
-      deducted (cleared to zero balance).
-
-  [B] INACTIVITY TIMER RESET: The 180-day inactivity countdown automatically 
-      resets back to zero whenever the user actively re-opens, logs into, or 
-      authenticates their account before the 180-day limit expires.
-
-  [C] PERMANENT LOSS UPON EXPIRY: Once points have expired due to 180 days of 
-      inactivity, re-opening or re-authenticating the account will NOT restore 
-      or recover the lost points. Unused balances that expire are permanently 
-      extinguished and non-recoverable.
-
---------------------------------------------------------------------------------
-38. SERVICE LEVEL AGREEMENT (SLA) & DOWNTIME EXCLUSIONS
---------------------------------------------------------------------------------
-RudraX Technologies Studio DOES NOT guarantee uninterrupted or 100% continuous 
-uptime. System maintenance, server upgrades, cloud provider outages, or network 
-latency may cause temporary service interruptions. Users agree that service 
-downtime shall not constitute a breach of contract or entitle any party to 
-financial compensation.
-
---------------------------------------------------------------------------------
-39. RECOVERY OF LEGAL FEES & ATTORNEY'S CHARGES
---------------------------------------------------------------------------------
-IF RUDRAX TECHNOLOGIES STUDIO OR RUDRA PARMAR INITIATES LEGAL ACTION, ARBITRATION, 
-OR COURT PROCEEDINGS TO ENFORCE THIS LICENSE AGREEMENT OR DEFEND AGAINST CLAIMS, 
-RUDRAX TECHNOLOGIES STUDIO SHALL BE ENTITLED TO RECOVER FROM THE NON-PREVAILING 
-PARTY ALL REASONABLE LEGAL EXPENSES, ADVOCATE FEES, COURT COSTS, AND ASSOCIATED 
-LITIGATION EXPENDITURES INCURRED.
+LEGAL NOTICE AND MANDATORY CONDITIONS OF USE:
+THIS SOFTWARE, SOURCE CODE, RUNTIME ASSETS, COMPILED BINARIES, SECURITY SHIELDS,
+API INFRASTRUCTURE, APPLICATION INTERFACES, AND THE UNIVERSAL "POINT PLAY" WEB3
+SETTLEMENT ECOSYSTEM (COLLECTIVELY DESIGNATED AS THE "SYSTEM") ARE THE EXCLUSIVE,
+UNCONDITIONAL PROPRIETARY PROPERTY OF RUDRAX TECHNOLOGIES STUDIO, FOUNDED AND
+DIRECTED BY RUDRA PARMAR (HEREINAFTER REFERRED TO AS THE "PROPRIETOR" OR "LICENSOR").
+
+BY ACCESSING, DOWNLOADING, INSTALLING, COPYING, COMPILING, INTEGRATING, RUNNING,
+OR TRANSACTING ON-CHAIN WITHIN ANY NODE OR SUBSYSTEM OF THIS SOFTWARE ECOSYSTEM,
+YOU (HEREINAFTER REFERRED TO AS THE "LICENSEE", "END-USER", OR "DEVELOPER") FULLY
+AGREE TO BE BOUND BY EVERY TERM, CONDITION, RESTRICTION, AND PENALTY SET FORTH
+ACROSS ALL FORTY (40) SECTIONS OF THIS AGREEMENT. IF YOU DO NOT CONSENT TO THESE
+TERMS IN THEIR ENTIRETY, CEASE ALL INTERACTION AND PERMANENTLY DESTROY ALL COPIES.
+
+--------------------------------------------------------------------------------
+SECTION 1: EXCLUSIVE INTELLECTUAL PROPERTY AND ASSET OWNERSHIP
+All patents, source routines, user interface concepts, graphical assets, visual
+layouts, stylesheets, backend nodes, brand identifiers, logos, cryptographic
+libraries, and architecture blueprints are solely owned by the Proprietor. No
+title, copyright, ownership transfer, or asset equity passes to the Licensee.
+
+SECTION 2: LIMITED, REVOCABLE, NON-TRANSFERABLE RUNTIME GRANT
+The Licensor grants a strictly limited, non-exclusive, non-transferable, and
+fully revocable permission to execute the System for legitimate personal or
+authorized internal testing purposes only. This permission is immediately
+terminable at the absolute discretion of the Licensor at any time without notice.
+
+SECTION 3: STRICT PROHIBITION OF DECOMPILATION AND REVERSE ENGINEERING
+The Licensee shall not reverse engineer, decompile, disassemble, inspect memory
+buffers, decipher binary dumps, trace runtime packets, or extract logic structures
+from any portion of the software, SDK, or network communication layers.
+
+SECTION 4: ABSOLUTE EMBARGO ON FORKING, REBRANDING, AND CODE RE-HOSTING
+Forking, renaming, reskinning, repackaging, or re-hosting this software or its
+sub-modules under any name other than "RudraX Technologies Studio" is strictly
+forbidden. Distributing modified or unmodified source clones is a direct breach.
+
+SECTION 5: UNIFIED WHITE-LABEL LICENSING AND RENTAL BOUNDARIES
+Commercial usage, white-label deployment, or runtime leasing of the System or its
+associated user interfaces is prohibited without an active, verified, time-bound
+Commercial License Agreement authenticated by an official Administrator Signature.
+
+SECTION 6: TEMPORARY LICENSE DURATION AND CONTRACTUAL RENEWAL
+All enterprise access rights or rental tiers operate under strictly metered time
+frames (e.g., 30 days, 180 days, or 365 days). Upon term expiration, the Licensee
+must renew the subscription immediately or permanently purge all software nodes.
+
+SECTION 7: MANDATORY CESSATION UPON SUBSCRIPTION EXPIRATION
+Continued operation of the System, APIs, UI layers, or compiled executables after
+license expiration shall constitute willful, intentional intellectual property
+theft and copyright violation subject to immediate digital takedown protocols.
+
+SECTION 8: ZERO-WARNING DMCA TAKEDOWN AUTHORIZATION
+The Licensor reserves the unilateral right to submit instant DMCA notices, GitHub
+repository takedowns, domain registry strikes, and app store removals against any
+entity utilizing unauthorized codebases, stolen assets, or expired licenses.
+
+SECTION 9: SYSTEM INTEGRITY, ANTI-TAMPERING, AND ANTI-DEBUGGING
+Any attempt to hook debuggers, spoof integrity checks, disable license guards,
+modify runtime memory addresses, or alter compiled binaries will automatically
+invalidate the runtime permit and trigger system-wide security lockouts.
+
+SECTION 10: CENTRALIZED ACCESS REVOCATION AND REMOTE ENGINE KILL-SWITCH
+The Licensor maintains active cryptographic kill-switches and dynamic token
+invalidation systems. The Licensor may remotely revoke access tokens, blacklist
+IP ranges, or lock client instances determined to be in breach of these terms.
+
+SECTION 11: SCOPE OF APPLICATION AND MULTI-PLATFORM COVERAGE
+This Agreement governs all software released by RudraX Technologies Studio,
+including but not limited to WebCode Studio, Nova Apps, RudraX IP-Guard, Point Play,
+Universal SDKs, and all future software initiatives deployed by the company.
+
+SECTION 12: UNILATERAL MODIFICATION AND POLICY REVISION AUTHORITY
+The Licensor retains absolute executive power to revise, amend, expand, or restate
+this License Agreement at any point. Updated versions take immediate effect once
+published to official repository roots, documentation hubs, or web portals.
+
+SECTION 13: STRICT BAN ON ILLICIT, HARMFUL, AND MALICIOUS USE
+The System must never be utilized to compile malware, execute phishing vectors,
+orchestrate Denial of Service (DoS/DDoS) operations, harvest unencrypted user
+credentials, or facilitate cyber attacks against third-party entities.
+
+SECTION 14: PLATFORM-WIDE ZERO-TOLERANCE CODE LEAK DISCLAIMER
+RudraX Technologies Studio operates solely as an infrastructure and platform
+provider. If any developer or community member voluntarily or accidentally leaks
+their private source code, database secrets, or API keys, the Studio bears zero
+legal, financial, or regulatory liability for resulting damages.
+
+SECTION 15: THIRD-PARTY ASSET AND DEPENDENCY SAFEGUARDS
+Third-party utilities, runtime engines, or open-source dependencies integrated
+within the platform remain the property of their respective creators and are
+governed under their individual distribution notices without altering this core IP.
+
+SECTION 16: STRICT DATA AND COOKIE PRIVACY BOUNDARIES
+The platform maintains strict data integrity boundaries. Personal data collected
+for security authentication is processed exclusively to maintain service reliability
+and will not be rented, bartered, or disclosed to unauthorized aggregators.
+
+SECTION 17: SERVER LOGGING, TELEMETRY, AND THREAT RECORDING
+To maintain stability, the System monitors incoming network traffic, IP headers,
+RPC payloads, error stack traces, and request volumes. Malicious payloads or DDoS
+signatures are logged permanently for defensive remediation and blacklisting.
+
+SECTION 18: LEGACY ACCOUNT DEPRECATION AND REMOVAL NOTICE
+The Licensor enforces routine maintenance cleanups. Unverified legacy accounts,
+disposable email profiles, and inactive database nodes are permanently purged at
+the discretion of the administration to protect ecosystem infrastructure.
+
+SECTION 19: OAUTH 2.0 AND CRYPTOGRAPHIC IDENTITY ENFORCEMENT
+To safeguard against bot registrations and disposable account spam, the Licensor
+mandates authentication via secure OAuth 2.0 protocols (Google, GitHub) or verified
+cryptographic key signatures for all interactive developer nodes.
+
+SECTION 20: NO OBLIGATION OF SOURCE CODE PROVISION
+Unless explicitly purchased through an enterprise contract bearing administrative
+digital sign-off, access to runtime binaries, web dashboards, or APIs confers
+zero right to inspect, demand, or possess the underlying proprietary source code.
+
+SECTION 21: DISCLAIMER OF COMPATIBILITY AND RUNTIME DEPENDENCIES
+The Licensor does not guarantee that the software will execute without interruption
+on every operating system, web browser engine, screen resolution, or hardware
+configuration. System optimizations remain dynamic and iterative.
+
+SECTION 22: RATE LIMITING, TRAFFIC QUOTAS, AND THROTTLING
+To preserve server stability, all API endpoints, compile engines, and web bridges
+are subject to strict transaction rate-limiting and access quotas. Automated
+scraping or flooding will trigger automated, permanent IP blacklisting.
+
+SECTION 23: SECURE TOKEN REDEMPTION AND USAGE RESTRICTIONS
+Tokens issued by the System are tied to cryptographic parameters and cannot be
+counterfeited, cloned, or shared across unauthorized network endpoints.
+
+SECTION 24: PROTECTION OF COMPANY REPUTATION AND BRAND MARKS
+No user or commercial partner may utilize the company name, brand badges, or
+trademarks in public statements, marketing releases, or advertisements without
+formal written authorization from the Licensor.
+
+SECTION 25: PROHIBITION OF DERIVATIVE WORK COMMERCIALIZATION
+No user may build commercial tools, wrappers, proxies, or monetization layers
+around this System without a formal Enterprise Agreement from the Licensor.
+
+SECTION 26: FORCE MAJEURE AND INFRASTRUCTURE RESILIENCE
+The Licensor shall not be held liable for temporary system downtime or delayed
+execution resulting from global Internet outages, power failures, natural disasters,
+upstream cloud disruptions, or distributed ledger blockchain congestion.
+
+SECTION 27: COMMUNITY BEHAVIOR AND INTERACTION STANDARDS
+Members engaging across official community hubs, review boards, and channels
+must maintain professional conduct. Toxicity, harassment, or distribution of
+harmful links results in permanent exclusion without appeal.
+
+SECTION 28: SEVERABILITY OF PROVISIONS
+If any single section or clause of this Agreement is held to be invalid or
+unenforceable under local statutory law, the remaining sections and provisions
+shall continue in full legal force, effect, and applicability.
+
+SECTION 29: ENTIRETY OF LEGAL AGREEMENT
+This document represents the complete, unified legal agreement between the Licensee
+and RudraX Technologies Studio, superceding all prior discussions, informal chats,
+draft notes, or unverified verbal understandings.
+
+SECTION 30: SOVEREIGN LEGAL JURISDICTION AND DISPUTE RESOLUTION
+This Agreement shall be governed and interpreted under the commercial and cyber
+laws of India. Any legal dispute, arbitration, or infringement litigation arising
+under this agreement shall fall under the exclusive jurisdiction of courts located
+in the home territory of the Licensor.
+
+SECTION 31: ABSOLUTE "AS-IS" PROVISION AND ZERO-WARRANTY SHIELD
+THE SYSTEM IS DISTRIBUTED "AS IS" AND "AS AVAILABLE" WITHOUT ANY EXPRESSED OR
+IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A
+SPECIFIC PURPOSE, UNINTERRUPTED EXECUTION, OR ABSENCE OF SYSTEM BUGS.
+
+SECTION 32: STRICT LIMITATION OF DAMAGES AND LIABILITY CAP
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL RUDRAX TECHNOLOGIES
+STUDIO, ITS FOUNDER, OR ITS AFFILIATES BE LIABLE FOR DIRECT, INDIRECT, INCIDENTAL,
+PUNITIVE, SPECIAL, OR CONSEQUENTIAL DAMAGES, INCLUDING LOSS OF PROFITS, DATA
+CORRUPTION, WORK STOPPAGE, OR HARDWARE MALFUNCTION RESULTING FROM THIS SOFTWARE.
+
+SECTION 33: COMPREHENSIVE INDEMNIFICATION OBLIGATION
+THE LICENSEE AGREES TO FULLY INDEMNIFY, DEFEND, AND HOLD HARMLESS THE LICENSOR
+FROM AND AGAINST ANY CLAIMS, LIABILITIES, LOSSES, LEGAL EXPENSES, OR FINES ARISING
+OUT OF THE LICENSEE'S MISUSE OF THE PLATFORM OR VIOLATION OF THESE TERMS.
+
+SECTION 34: VOLUNTARY PLATFORM USE AND ASSUMPTION OF RISK
+THE ENTIRE RISK AS TO THE EXECUTION QUALITY, COMPILATION RESULTS, AND PERFORMANCE
+OF THE SOFTWARE RESTS ENTIRELY WITH THE USER.
+
+SECTION 35: ADMINISTRATIVE ENFORCEMENT AND UNILATERAL TERMINATION
+THE LICENSOR RESERVES THE EXCLUSIVE AUTHORITY TO SUSPEND ACCOUNTS, CANCEL
+SUBSCRIPTIONS, PURGE DATA, AND RESTRICT ACCESS TO ANY INDIVIDUAL OR ENTITY FOUND
+VIOLATING COMMUNITY STANDARDS, CODE BOUNDARIES, OR SECURITY GUIDELINES.
+
+SECTION 36: AUDIT RIGHTS AND UNVERIFIED DEPLOYMENT CHECKS
+The Licensor retains full authority to conduct automated and manual verification
+audits across software nodes to verify active commercial licensing compliance.
+
+SECTION 37: PERMANENT TERMINATION UPON MATERIAL BREACH
+Any direct breach of proprietary clauses, reverse engineering bans, or unauthorized
+distribution provisions terminates all user permissions automatically and instantly.
+
+SECTION 38: SURVIVAL OF PROPRIETARY AND PROTECTIVE CLAUSES
+Sections 1, 3, 4, 8, 14, 30, 31, 32, 33, and 40 shall survive the termination,
+cancellation, or expiration of this Agreement in perpetuity.
+
+SECTION 39: EXECUTIVE SIGN-OFF AND BRAND RECOGNITION
+All governance actions, security initiatives, licensing contracts, and system
+updates operate under the direct executive authority of Founder and CEO, Rudra Parmar.
+
+--------------------------------------------------------------------------------
+SECTION 40: UNIVERSAL DIGITAL SETTLEMENT & POINT PLAY ECOSYSTEM GOVERNANCE
+--------------------------------------------------------------------------------
+1. UNIVERSAL ECOSYSTEM CURRENCY & APPLICABILITY:
+The "Point Play" infrastructure, engineered and operated exclusively by RudraX
+Technologies Studio, serves as the singular, mandatory, and universal digital point
+settlement protocol across all existing, pending, and future software, APIs, web
+applications, SDKs, and platforms released under the RudraX brand. Any commercial
+or premium tier across the ecosystem shall derive its access rights exclusively
+from Point Play point balances and forged access tokens.
+
+2. ON-CHAIN DEPOSIT PROTOCOL & CRYPTOGRAPHIC VERIFICATION:
+All inbound balance top-ups must execute strictly through verified Solana-based
+vault settlements utilizing authorized digital assets (USDC and SOL). Conversion
+of on-chain value to platform points requires:
+  a. Valid cryptographic transaction hash (TxID/Signature) submission.
+  b. Automated Remote Procedure Call (RPC) network audit verifying block confirmation,
+     exact asset denomination, and target vault destination.
+  c. Final cryptographic or administrative sign-off before point ledger allocation.
+
+3. FORGED SDK ACCESS TOKENS & CONSUMABILITY:
+Users and enterprise licensees may burn accredited point balances to forge
+single-use, cryptographically generated SDK Redeem Tokens. These tokens are
+interoperable across any integration powered by the RudraX Universal SDK. All
+points committed to token generation, plan subscriptions, or API queries are
+strictly consumable once processed.
+
+4. STRICT IRREVERSIBILITY & NON-REFUNDABLE ASSET POLICY:
+Due to the immutable nature of public distributed ledger networks, all on-chain
+deposits and subsequent point conversions are strictly NON-REFUNDABLE and FINAL.
+RudraX Technologies Studio bears zero liability for user-side wallet dispatch
+errors, unsupported network transfers, lost private keys, or fraudulent deposit
+submissions. Any attempt to submit fabricated transaction signatures or exploit
+RPC mechanisms shall result in immediate, permanent forfeiture of points and
+total account termination.
+
+5. SPAM DEFENSE, COOLDOWN MATRIX & ASSET CONSERVATION:
+The ecosystem enforces a mandatory 24-hour settlement submission cooldown per
+authenticated identity to prevent network congestion and automated exploitation.
+In the event that an SDK token contains point values exceeding the target tier's
+cost, the excess value shall automatically route back to the verified user ledger
+or generate an ancillary credit token in accordance with ecosystem balancing logic.
 
 ================================================================================
-AUTHENTICATION NODE:
-Authenticated by: Rudra Parmar
-Title: Founder, Chief Executive Officer & System Architect
-Entity: RudraX Technologies Studio
+OFFICIAL GOVERNANCE STAMP & PROPRIETOR AUTHENTICATION
+================================================================================
+ORGANIZATION: RUDRAX TECHNOLOGIES STUDIO
+FOUNDER & CHIEF EXECUTIVE OFFICER: RUDRA PARMAR
+ECOSYSTEM: WEBCODE STUDIO | NOVA APPS | RUDRAX IP-GUARD | POINT PLAY
+DOCUMENT ID: RX-LEGAL-PROP-V4-2026
+LEGAL STATUS: ACTIVE, AIRTIGHT, BINDING, AND GLOBALLY ENFORCED
 ================================================================================
