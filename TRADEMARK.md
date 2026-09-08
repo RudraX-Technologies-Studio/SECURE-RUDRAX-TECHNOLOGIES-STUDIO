@@ -1,7 +1,7 @@
 # Trademark & Brand Usage Policy
 
 ## Official Statement
-The names **RudraX Technologies Studio™**, **WebCode Studio™**, **NovaApps™**, **GhostMessage™**, **apiNode™**, along with associated logos, visual identity, and software assets, are unregistered trademarks and proprietary intellectual property of **RudraX Technologies Studio™** (Founder: Rudra Parmar).
+The names **RudraX Technologies Studio™**, **RudraX™**, **R.U.D.R.A.X. Engine™**, along with associated product ecosystem names, utility tool suites, official logos, visual identity, and software assets across all categories, are unregistered trademarks and proprietary intellectual property of **RudraX Technologies Studio™** (Founder: Rudra Parmar).
 
 ## Prohibited Usage
 Without express prior written consent from RudraX Technologies Studio™:
@@ -13,5 +13,5 @@ Without express prior written consent from RudraX Technologies Studio™:
 Any unauthorized commercial exploitation, trademark infringement, or illegal distribution of source code will be subject to immediate legal notices, DMCA takedown requests on hosting platforms (GitHub, App Stores, Web Hosts), and copyright enforcement.
 
 ---
-*Official Legal Portal:* [https://rudrax-legal.42web.io](https://rudrax-legal.42web.io)  
-*Contact:* `rudraxtechnologiesstudio@gmail.com`
+*Official Legal Portal:* [https://rudrax-legal.42web.io]  
+*Contact:* `helprudraxtechnologiesstudio@gmail.com`
