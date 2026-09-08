@@ -10,4 +10,4 @@
 
 ## Direct Contact
 For queries regarding code compliance, partnership inquiries, or corporate verification:
-- **Email:** `rudraxtechnologiesstudio@gmail.com`
+- **Email:** `helprudraxtechnologiesstudio@gmail.com`
