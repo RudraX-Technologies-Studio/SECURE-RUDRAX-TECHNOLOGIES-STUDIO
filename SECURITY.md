@@ -22,7 +22,7 @@ To help us process and resolve security reports efficiently, please adhere to th
 
 1. **Direct Communication:** Please **do not** create public GitHub issues, forum posts, or public social media threads for security vulnerabilities. Report all issues privately via email.
 2. **Dedicated Security Contact:** Send a detailed security advisory directly to our administrative team at:
-   * **Primary Security Email:** `rudraxtechnologiesstudio@gmail.com`
+   * **Primary Security Email:** `helprudraxtechnologiesstudio@gmail.com`
    * **Secondary Contact:** `rudrapurparmar@gmail.com`
 3. **Required Information:** To assist our evaluation process, please include as much of the following information as possible in your report:
    * A clear and concise description of the security vulnerability.
